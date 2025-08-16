@@ -1,4 +1,4 @@
-# 📊 TelecomX LATAM – Predicción de Cancelación de Clientes
+# 📊 Challenge Telecom X: análisis de evasión de clientes - Parte 2
 
 ## 📌 Descripción del Proyecto
 Este proyecto tiene como objetivo predecir la cancelación de clientes (**churn**) en la empresa ficticia **TelecomX LATAM**, utilizando técnicas de Machine Learning aplicadas a un dataset realista del sector telecomunicaciones.
